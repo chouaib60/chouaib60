@@ -76,7 +76,7 @@
 ### 📫 **Me contacter**
 
 📍 Casablanca, Maroc  
-📧 **kho​mallic@gmail.com**  
+📧 ** kho​mallic@gmail.com **  
 🔗 [LinkedIn](https://www.linkedin.com/in/chouaib-khomalli)  
 💻 [GitHub](https://github.com/chouaib60)
 
