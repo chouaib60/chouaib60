@@ -6,7 +6,7 @@
 <details>
 <p><strong> <summary> 🎧 Coding & vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/chouaibkhomalli)
 
 </details>
 
