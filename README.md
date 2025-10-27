@@ -18,7 +18,6 @@
 
 🎓 Étudiant en **Master 2 Ingénierie des Systèmes Intelligents** à la **Faculté des Sciences Aïn Chock (Casablanca)**  
 💡 Passionné par l’**IA**, le **Big Data**, le **Développement logiciel** et les **systèmes intelligents**  
-🚀 Actuellement à la recherche d’un **stage de fin d’études (février–juillet 2026)** en **Génie Logiciel / Data / IA**
 
 ---
 
