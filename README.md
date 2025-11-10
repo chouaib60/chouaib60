@@ -5,7 +5,7 @@
 <details>
 <p><strong> <summary> 🎧 Coding & vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/chouaibkhomalli)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app.api/spotify)](https://open.spotify.com/user/chouaibkhomalli)
 
 </details>
 
@@ -14,24 +14,24 @@
 
 <hr>
 
-### 👋 Bonjour, je suis **Chouaib Khomalli**
+### 👋 Hello, I'm **Chouaib Khomalli**
 
-🎓 Étudiant en **Master 2 Ingénierie des Systèmes Intelligents** à la **Faculté des Sciences Aïn Chock (Casablanca)**  
-💡 Passionné par l’**IA**, le **Big Data**, le **Développement logiciel** et les **systèmes intelligents**  
-
----
-
-### 🧠 À propos de moi
-
-- 💻 J’aime concevoir des **applications web et mobiles intelligentes**
-- 🧩 Intéressé par le **Machine Learning**, le **Deep Learning** et la **Data Science**
-- 🐧 Explorateur de **GNU/Linux**, adepte du **clean code**
-- 🧠 Esprit analytique, rigoureux et curieux — j’adore résoudre des problèmes complexes
-- ☕ Fun fact : Je débogue plus vite avec un bon café ☕
+🎓 Student in **Master 2 Intelligent Systems Engineering** at **Faculty of Sciences Aïn Chock (Casablanca)**  
+💡 Passionate about **AI**, **Big Data**, **Software Development**, and **Intelligent Systems**  
 
 ---
 
-### 🛠️ **Technologies & Outils**
+### 🧠 About Me
+
+- 💻 I enjoy designing **intelligent web and mobile applications**
+- 🧩 Interested in **Machine Learning**, **Deep Learning**, and **Data Science**
+- 🐧 **GNU/Linux** explorer, advocate of **clean code**
+- 🧠 Analytical, rigorous, and curious mind — I love solving complex problems
+- ☕ Fun fact: I debug faster with a good coffee ☕
+
+---
+
+### 🛠️ **Technologies & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -55,28 +55,10 @@
 
 ---
 
-### 🧩 **Projets récents**
-
-- 💼 **[Plateforme de recrutement](https://github.com/chouaib60)** — React.js, Node.js, TailwindCSS, authentification Clerk, upload sécurisé  
-- 🌱 **Application d’arrosage automatique** — React Native + Firebase + ESP32 + MQTT  
-- 📰 **Détecteur de fake news (NLP)** — Classification TF-IDF, XGBoost, Topic Modeling (LDA/LSI)  
-- 🚗 **Analyse de la dangerosité des routes (NARSA)** — Modélisation prédictive, visualisation Power BI, KNNImputer, SMOTE  
-
----
-
 ### 📜 **Certifications**
 
 - 🧠 **The AI Engineer Course: Complete AI Engineer Bootcamp — Udemy**  
-  [🔗 Voir le certificat](https://www.udemy.com/certificate/UC-bfeb8ca3-4c21-4182-b783-33535a299355/)
-
----
-
-### 📫 **Me contacter**
-
-📍 Casablanca, Maroc  
-📧 **kho​mallic@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/chouaib-khomalli)  
-💻 [GitHub](https://github.com/chouaib60)
+  [🔗 View Certificate](https://www.udemy.com/certificate/UC-bfeb8ca3-4c21-4182-b783-33535a299355/)
 
 ---
 
@@ -88,10 +70,9 @@
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </a>
 
-
 <hr>
 
-**Cycle du code**  
-🌀 → 😵 (ça ne compile pas) → 😌 (ça marche enfin) → 😲 (je ne sais pas pourquoi ça marche, mais ça marche)
+**Code Cycle**  
+🌀 → 😵 (it won't compile) → 😌 (it finally works) → 😲 (I don't know why it works, but it works)
 
 </div>
