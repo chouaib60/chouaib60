@@ -25,7 +25,7 @@
 
 - 💻 I enjoy designing **intelligent web and mobile applications**
 - 🧩 Interested in **Machine Learning**, **Deep Learning**, and **Data Science**
-- 🐧 **GNU/Linux** explorer, advocate of **clean code**
+- 🐧 advocate of **clean code**
 - 🧠 Analytical, rigorous, and curious mind — I love solving complex problems
 - ☕ Fun fact: I debug faster with a good coffee ☕
 
