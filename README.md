@@ -14,14 +14,14 @@
 
 <hr>
 
-### 👋 Hello, I'm **Chouaib Khomalli**
+### Hello, I'm **Chouaib Khomalli**
 
-🎓 Student in **Master 2 Intelligent Systems Engineering** at **Faculty of Sciences Aïn Chock (Casablanca)**  
-💡 Passionate about **AI**, **Big Data**, **Software Development**, and **Intelligent Systems**  
+ Student in **Master 2 Intelligent Systems Engineering** at **Faculty of Sciences Aïn Chock (Casablanca)**  
+ Passionate about **AI**, **Software Development**, and **Intelligent Systems**  
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 💻 I enjoy designing **intelligent web and mobile applications**
 - 🧩 Interested in **Machine Learning**, **Deep Learning**, and **Data Science**
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ **Technologies & Tools**
+###  **Technologies & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -55,10 +55,10 @@
 
 ---
 
-### 📜 **Certifications**
+###  **Certifications**
 
-- 🧠 **The AI Engineer Course: Complete AI Engineer Bootcamp — Udemy**  
-  [🔗 View Certificate](https://www.udemy.com/certificate/UC-bfeb8ca3-4c21-4182-b783-33535a299355/)
+-  **The AI Engineer Course: Complete AI Engineer Bootcamp — Udemy**  
+  [ View Certificate](https://www.udemy.com/certificate/UC-bfeb8ca3-4c21-4182-b783-33535a299355/)
 
 ---
 
